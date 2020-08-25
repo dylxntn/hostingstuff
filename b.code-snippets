@@ -1,6 +1,6 @@
 {
 	"Console Log":{
-		"prefix": "bt",
+		"prefix": "bs",
 		"description": "This is the Bootstrap Template by Dylan",
 		"body": [
 			"<!doctype html>"
